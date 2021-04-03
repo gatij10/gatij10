@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-### https://github-readme-stats.vercel.app/api?username=gatij10
+![Gatij's github stats](https://github-readme-stats.vercel.app/api?username=gatij10)
